@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+tqdm
+PyPDF2
+docx2txt
+pandas
+openpyxl
